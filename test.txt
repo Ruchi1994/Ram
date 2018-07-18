@@ -1,0 +1,17 @@
+ Volume in drive C has no label.
+ Volume Serial Number is F853-1524
+
+ Directory of C:\Users\Hello\Desktop\bhole
+
+07/18/2018  05:03 PM    <DIR>          .
+07/18/2018  05:03 PM    <DIR>          ..
+07/15/2018  11:08 PM        12,722,518 bookshttpwww_allitebooks_com.zip
+07/15/2018  09:18 PM    <DIR>          Java8InAction-master
+05/11/2018  01:10 AM            83,370 Java8InAction-master.zip
+07/18/2018  05:01 PM                18 ruc
+07/18/2018  03:40 PM    <DIR>          ruchi
+07/18/2018  03:42 PM    <DIR>          Ruchika
+07/16/2018  03:49 AM    <DIR>          spring-framework
+07/18/2018  05:03 PM                72 test.txt
+               4 File(s)     12,805,978 bytes
+               6 Dir(s)  94,944,440,320 bytes free
